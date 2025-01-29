@@ -1,9 +1,13 @@
 # workshop-0
-upload my note into folder (but it's my native language)
-## question
-Why does the circle have a tail(shadow)
-### URL
+setup
+## URL
 https://clementine0507.github.io/workshop-0/
-### reflection
-I will write all my notes in English after I finish learning all the courses. Currently, I am writting my native language for convenience in studying, and I apologize for that.
-I found the names of the circle functions on the reference website and used an ‘if’ loop to add a small animation. However, what I don’t understand is why a shadow is left along the path that the circle travels, and I haven’t been able to identify the issue so far.
+### Notes
+
+![7654ce26ff1403f2cde58cd9e2f3496](https://github.com/user-attachments/assets/a3b5a52c-feed-4511-a5db-4a001e3d3906)
+
+![dfa98e71f4ca25ad750e89e679e31f2](https://github.com/user-attachments/assets/dbaadddb-4e51-4821-ba9c-13c5ae38b5ba)
+
+![1738172273761](https://github.com/user-attachments/assets/08290b7d-d065-47d2-a3be-4711de38710c)
+
+#### Processing
